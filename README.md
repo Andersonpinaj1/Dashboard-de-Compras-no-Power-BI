@@ -27,7 +27,7 @@ Foi utilizado algumas fórmulas no Power BI para fazer essa construção, como A
 
  ### **SOBRE O PROJETO** <img width="15px" src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/money1o.gif" />  
 ***
-O projeto foi feito em 7 etapas: 
+O projeto foi feito em 5 etapas: 
 
 - Análise de dados:
 - Fórmulas DAX:
