@@ -12,7 +12,7 @@ DASHBOARD!
 
 ### **OBJETIVO** <img width="15px" src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/money1o.gif" /> 
 ***
-Criar um Dashboard de Compras totalmente interativo criado no Power BI.
+O projeto "Dashboard de Compras no Power BI" é uma demonstração de como criar um dashboard interativo e informativo utilizando o software Power BI da Microsoft.
 
 <p align= "center">
 <img src="https://github.com/Andersonpinaj1/Dashboard-de-Compras-no-Power-BI/blob/main/Tootip.png" min-width="500px" max-width="400px" width="400px" >
@@ -37,11 +37,8 @@ O projeto foi feito em 7 etapas:
 
 ### **CONCLUSÕES** <img width="15px" src="https://github.com/Andersonpinaj1/O_LOBO_DAS_ACOES/blob/main/money1o.gif" /> 
 ***
-Criamos uma inteligência artificial que, no primeiro trimestre, conseguiu aumentar os lucros na minha carteira de 4,6% no mesmo período em que a IBOV caiu 3%.
 
-Trabalhos futuros:
-
-Embora o projeto já seja uma solução completa e funcional, existem ainda algumas melhorias que podem ser implementadas no futuro. Uma delas é a integração com mais fontes de dados financeiros, para obter uma análise ainda mais precisa e abrangente. Outra possibilidade é a inclusão de novos indicadores técnicos e algoritmos de negociação, para aumentar a eficiência e rentabilidade do robô. Além disso, também há a possibilidade de expandir a aplicação para outros mercados financeiros, como forex ou commodities. Em suma, o projeto "O LOBO DAS AÇÕES" tem grande potencial para evoluir e se tornar uma referência em negociação automatizada de ações.
+Ao final do projeto, e apresentado um dashboard completo e interativo, que pode ser utilizado para analisar e tomar decisões baseadas em dados de compras da empresa. O projeto é uma demonstração prática de como o Power BI pode ser uma ferramenta poderosa para análise e visualização de dados.
 
  
 
